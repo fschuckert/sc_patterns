@@ -1,2 +1,1 @@
-# sc_patterns
-Difficult source code patterns for SCA tools
+# sca_patterns
