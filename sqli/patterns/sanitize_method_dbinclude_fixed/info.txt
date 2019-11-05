@@ -1,3 +1,0 @@
-source vuln.php:11
-sink include/sqlite.inc.php:13
-
